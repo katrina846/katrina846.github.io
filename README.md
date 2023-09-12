@@ -1,5 +1,5 @@
 # katrinalsp23.github.io
-This project has been made in collaboration with Rijksmuseum van Oudheden for a course at Hogeschool Leiden. During this project, a boardgame with educational purposes was created for the museum with a corresponding website. 
+This project has been made in collaboration with Rijksmuseum van Oudheden. During this project, a boardgame with educational purposes was created for the museum with a corresponding website. 
 
 The website is accessible at https://katrinalsp23.github.io. 
 
