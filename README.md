@@ -3,4 +3,4 @@ This project has been made in collaboration with Rijksmuseum van Oudheden. Durin
 
 The website is accessible at https://katrina846.github.io. 
 
-De website generates a code from the user, namely the code 6650. Go to the page 'quiz' and type in the code 6650 in the input box. Then, the quiz will appear. 
+De website generates a code from the user, namely the code 6650. Go to the page 'quiz' and type in the code 6650 in the input box. Subsequently, the quiz will appear. 
